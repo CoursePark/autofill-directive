@@ -1,0 +1,27 @@
+{
+  "name": "bluedrop-autofill-directive",
+  "version": "1.0.0",
+  "description": "AngularJS directive that fixes the issue where browsers autofill inputs and they aren't reflective in the model upon submit.",
+  "main": "autofill-directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoursePark/autofill-directive.git"
+  },
+  "keywords": [
+    "autofill",
+    "directive"
+  ],
+  "contributors": [
+      {
+          "name": "Jared Abbott"
+      }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoursePark/autofill-directive/issues"
+  },
+  "homepage": "https://github.com/CoursePark/autofill-directive#readme"
+}
